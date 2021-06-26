@@ -1,2 +1,2 @@
 # directService
-sentinel demo
+sentinel demo, sentinel<->nacos->springboot application
